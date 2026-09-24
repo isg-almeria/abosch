@@ -53,7 +53,7 @@ For a complete and up-to-date list of my publications:
 Para consultar la lista completa y actualizada de publicaciones:
 
 - **Portal institucional (Brújula / Directory):** [Link](https://brujula.ual.es/authors/104.html)
-- **ORCID:** [0000-0003-4980-4053]((https://orcid.org/0000-0003-4980-4053)
+- **ORCID:** [0000-0003-4980-4053](https://orcid.org/0000-0003-4980-4053)
 - **Google Scholar:** [Perfil / Profile Link](https://scholar.google.com/)
 - **Scopus:** [Perfil / Profile Link](https://www.scopus.com/)
 - **Web of Science / ResearcherID:** [Perfil / Profile Link](https://www.webofscience.com/)
