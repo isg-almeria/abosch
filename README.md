@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/abosch.jpeg" width="180" alt="Foto de perfil">
-  <h1><strong>[Alfonso Bosch Arán]</strong></h1>
+  <h1><strong>Alfonso Bosch Arán</strong></h1>
 </p>
 
 <p align="center">
@@ -52,14 +52,14 @@ For a complete and up-to-date list of my publications:
 
 Para consultar la lista completa y actualizada de publicaciones:
 
-- **Portal institucional (Brújula / Directory):** [Perfil / Profile Link](https://ejemplo.es)
-- **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+- **Portal institucional (Brújula / Directory):** [Link](https://brujula.ual.es/authors/104.html)
+- **ORCID:** [0000-0003-4980-4053]((https://orcid.org/0000-0003-4980-4053)
 - **Google Scholar:** [Perfil / Profile Link](https://scholar.google.com/)
 - **Scopus:** [Perfil / Profile Link](https://www.scopus.com/)
 - **Web of Science / ResearcherID:** [Perfil / Profile Link](https://www.webofscience.com/)
 - **LinkedIn:** [Perfil / Profile Link](https://www.linkedin.com/)
 - **ResearchGate:** [Perfil / Profile Link](https://www.researchgate.net/)
-- **GitHub:** [usuario / username](https://github.com/)
+- **GitHub:** [AlfonsoBosch](https://github.com/AlfonsoBosch)
 - **Zenodo:** [Perfil / Profile Link](https://zenodo.org/)
 
 ---
@@ -112,7 +112,7 @@ Aplicaciones interactivas, marcos de trabajo o herramientas desarrolladas como p
 
 ## Links · Enlaces
 
-- **Teaching · Docencia:** [Enlace a perfil docente o asignaturas]
+- **Teaching · Docencia:** [Link](https://www.ual.es/persona/505553485049554878)
 - **Personal Web / Blog:** [Enlace a web personal]
 
 ---
